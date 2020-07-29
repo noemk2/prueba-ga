@@ -13,7 +13,6 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <a to="https://bit.ly/noemk2">Go to my github</a> <br />
     <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
 
